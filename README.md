@@ -10,7 +10,7 @@ https://www.tnctr.com/profile/16286-bensuslu11/
 Aşağıdaki komutu kopyalayın, cmd yönetici olarak çalıştırıp script'i yapıştırın ve ENTER ile onaylayın.
 
 ```bat
-curl -L "https://raw.githubusercontent.com/yakup-alan/Microsoft_Store_App/main/Install_MsStApp.bat" -o "%TEMP%\Install_MsStApp.bat" && start "" "%TEMP%\Install_MsStApp.bat"
+curl -L "https://raw.githubusercontent.com/yakup-alan/Microsoft_Store_App/main/MsStApp.cmd" -o "%TEMP%\MsStApp.cmd" && start "" "%TEMP%\MsStApp.cmd"
 ```
 
 ---
